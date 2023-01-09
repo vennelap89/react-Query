@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "profile": [
+    
+ 
+{"id": 832, "firstName": "Arun", "lastName": "Kumar", "email": "ak1@gmail.com", "phoneNumber": "1 5055051929"},
+{"id": 782, "firstName": "Hemanth", "lastName": "Raju", "email": "hemanthn@ideyalabs.com"},
+{"id": 760, "firstName": "Prarabdha", "lastName": "Bhagat", "email": "prarabdhab@ideyalabs.com"},
+{"id": 750, "firstName": "Individual", "lastName": "Account name", "email": "abcd@ideyalabs.com"},
+{"id": 746, "firstName": "Arun", "lastName": "Kumar", "email": "abcde@ideyalabs.com"},
+{"id": 745, "firstName": "Ibaas", "lastName": "Portal", "email": "abcdd@xyz.com", "phoneNumber": "1 5055051201"},
+{"id": 744, "firstName": "Ibaas", "lastName": "Portal", "email": "abcd@xyz.com", "phoneNumber": "1 5055051200"},
+{"id": 743, "firstName": "Hello", "lastName": "Customer", "email": "hellocustomer@gmail.com"},
+{"id": 739, "firstName": "Shahul", "lastName": "Syed", "email": "dhhhsghgd@gmail.com"},
+{"id": 734, "firstName": "Brock", "lastName": "Brock", "email": "beastlesner@gmail.com"},
+{"id": 733, "firstName": "Ananth", "lastName": "S", "email": "ananthsb@ibaas.com", "phoneNumber": "1 9676838413"},
+{"id": 728, "firstName": "Waren", "lastName": "Brown", "email": "warenbrown324@gmil.com"},
+{"id": 716, "firstName": "Madhuri", "lastName": "Honey", "email": "madhuria@gmail.com"},
+{"id": 715, "firstName": "Sandeep", "lastName": "Ios", "email": "rowdy@gmail.com", "phoneNumber": "1 3874628428"},
+{"id": 714, "firstName": "Ananth ", "lastName": "S", "email": "ananth@ibaas.com", "phoneNumber": "1 1425782934"},
+{"id": 713, "firstName": "Black", "lastName": "Smith", "email": "black@smith.com", "phoneNumber": "1 5051432554"},
+{"id": 712, "firstName": "Swaroop ", "lastName": "Lll", "email": "swaroopl@gmail.com"},
+{"id": 711, "firstName": "Arun", "lastName": "Kumar", "email": "marunkumarmadana@gmail.com"},
+{"id": 704, "firstName": "Pavithra", "lastName": " d", "email": "PavithraD@gmai.com"},
+{"id": 703, "firstName": "Coyni", "lastName": "Personal", "email": "personal@coyni.com"},
+{"id": 694, "firstName": "Sam", "lastName": "Sandy", "email": "devmer@g.com", "phoneNumber": "1 6894554646"},
+{"id": 693, "firstName": "Sriniv", "lastName": "Reddy", "email": "sr@gmail.com", "phoneNumber": "1 5421316916"},
+{"id": 682, "firstName": "Sss", "lastName": "Sks", "email": "sss@g.com", "phoneNumber": "1 6895325724"},
+{"id": 681, "firstName": "Sam", "lastName": "Sandy", "email": "sand@g.com", "phoneNumber": "1 6895174554"},
+{"id": 634, "firstName": "Pavithra", "lastName": " d", "email": "PavithraD@ideyalabs.com"}
+
+]
+}
