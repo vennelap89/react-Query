@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { details } from "../API/details/Details";
 import { QueryKeys } from "../helpers/QueryKeys";
 
-export default function Profile() {
+export default function Table() {
 
 
   const [pagination, setPagination] = useState({ page: 1, limit: 5});
