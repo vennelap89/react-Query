@@ -1,7 +1,7 @@
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
 import { Route, BrowserRouter, Routes, Navigate } from "react-router-dom";
-import Profile from "./pages/Profile";
+import Table from "./pages/Table";
 
 function App() {
   const queryClient = new QueryClient({
@@ -16,8 +16,8 @@ function App() {
     <QueryClientProvider client={queryClient}>
       <BrowserRouter>
         <Routes>
-            <Route path="/profiles" element={<Profile />} />
-            <Route path="/" element={<Navigate to={"/profiles"} />} />
+            <Route path="/table" element={<Table />} />
+            <Route path="/" element={<Navigate to={"/table"} />} />
         </Routes>
       </BrowserRouter>
       <ReactQueryDevtools initialIsOpen={false} />
